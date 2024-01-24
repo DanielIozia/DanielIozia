@@ -27,7 +27,7 @@ opportunities provided by [start2impactUniversity](https://www.start2impact.it/)
 
 * 🌍  I'm Sicilian but currently I'm based in Pisa
 * 🧠  I'm constantly learning
-* 📩  You can contact me at [danieliozia.di@gmail.com](danieliozia.di@gmail.com)
+* 📩  You can contact me at <a href="mailto:danieliozia.di@gmail.com">danieliozia.di@gmail.com</a>
 
 
 ### Skills
