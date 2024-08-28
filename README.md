@@ -31,18 +31,25 @@ opportunities provided by [start2impactUniversity](https://www.start2impact.it/)
 
 
 ### Skills
+
 <p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/6047a9e35e5dc54ac86ddd90/63065002ce321b529d375e07_2e261bcd.png" width="36" height="36" alt="C++" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-<a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width="36" height="36" alt="HTML" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="36" height="36" alt="CSS" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Angular_gradient.png" width="36" height="36" alt="CSS" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="36" height="36" alt="CSS" /></a>
-  <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" width="36" height="36" alt="CSS" /></a>
+  <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width="36" height="36" alt="HTML" /></a>
+  <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="36" height="36" alt="CSS" /></a>
+  <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="36" height="36" alt="C" />   </a>  
+  <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+  <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="36" height="36" alt="TypeScript" /></a>
+  <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
+  <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="36" height="36" alt="Angular" /></a>
+  <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="36" height="36" alt="Spring" /></a>
+  <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" width="36" height="36" alt="Java" /></a>
 </p>
 
-
 ### Socials
-<p align="left"> <a href="https://www.instagram.com/daniel.iozia?igsh=MTNhd2p2Mmh0MDR4cw%3D%3D&utm_source=qr" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a></p>
+<p align="left"> 
+  <a href="https://www.instagram.com/daniel.iozia?igsh=MTNhd2p2Mmh0MDR4cw%3D%3D&utm_source=qr" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
+  </a>
+   <a href="www.linkedin.com/in/daniel-iozia-283486201" target="_blank" rel="noreferrer">
+<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" width="32" height="32" />
+  </a>
+</p>
