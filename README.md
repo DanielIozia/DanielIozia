@@ -39,6 +39,7 @@ opportunities provided by [start2impactUniversity](https://www.start2impact.it/)
 <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="36" height="36" alt="CSS" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Angular_gradient.png" width="36" height="36" alt="CSS" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="36" height="36" alt="CSS" /></a>
+  <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" width="36" height="36" alt="CSS" /></a>
 </p>
 
 
