@@ -38,7 +38,7 @@ opportunities provided by [start2impactUniversity](https://www.start2impact.it/)
 <a href="#" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width="36" height="36" alt="HTML" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="36" height="36" alt="CSS" /></a>
 <a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f7/Angular_gradient.png" width="36" height="36" alt="CSS" /></a>
-<a href="#" target="_blank" rel="noreferrer"><img src="https://bgasparotto.com/wp-content/uploads/2017/12/spring-boot-logo.png" width="36" height="36" alt="CSS" /></a>
+<a href="#" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="36" height="36" alt="CSS" /></a>
 </p>
 
 
