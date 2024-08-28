@@ -49,7 +49,7 @@ opportunities provided by [start2impactUniversity](https://www.start2impact.it/)
   <a href="https://www.instagram.com/daniel.iozia?igsh=MTNhd2p2Mmh0MDR4cw%3D%3D&utm_source=qr" target="_blank" rel="noreferrer">
 <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
   </a>
-   <a href="www.linkedin.com/in/daniel-iozia-283486201" target="_blank" rel="noreferrer">
+   <a href="www.linkedin.com/in/daniel-iozia-283486201" target="_blank">
 <img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" width="32" height="32" />
   </a>
 </p>
