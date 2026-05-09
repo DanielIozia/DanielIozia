@@ -1,55 +1,46 @@
-### Hi there!
+### Daniel Iozia
 
-<!--
-**DanielIozia/DanielIozia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Full Stack Developer · Angular & Spring Boot · Italy**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I build things for the web — from internal agency tools to platforms I ship on weekends.
+~1.5 years of professional experience shaping **Angular** frontends and **Java Spring Boot** backends at a web consulting agency.
+Computer Science student at the **University of Pisa**. Sicilian by birth, curious by nature.
 
-My name is Daniel Iozia ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
-=====================================================================================================================================
+---
 
-Computer Science
-------------------
+**Quick facts**
 
-I am a student in computer science at the University of Pisa, 
-dedicated to enhancing my skills in the extensive field of web development through the educational 
-opportunities provided by [start2impactUniversity](https://www.start2impact.it/)
+- 📍 Based in Italy
+- 🎓 Computer Science @ University of Pisa
+- 💼 Full Stack Dev at a web consulting agency
+- 📩 [danieliozia.di@gmail.com](mailto:danieliozia.di@gmail.com)
 
-* 🌍  I'm Sicilian but currently I'm based in Pisa
-* 🧠  I'm constantly learning
-* 📩  You can contact me at <a href="mailto:danieliozia.di@gmail.com">danieliozia.di@gmail.com</a>
+---
 
+**What I'm shipping**
 
-### Skills
+| Project | Description | Stack |
+|---|---|---|
+| 🎓 **Campusly** | Social platform for university students — posts, events, chat, Web Push. PWA deployed on Oracle Cloud. | Angular 19 · Spring Boot · PostgreSQL |
+| ⚖️ **Meew** | Legal debt management with 3 user roles, e-signatures, PDF generation and document workflows. | Spring Boot · DocuSeal · OpenHTMLtoPDF |
 
-<p align="left">
-  <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png?size=48" width="36" height="36" alt="HTML" /></a>
-  <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/3/3d/CSS.3.svg" width="36" height="36" alt="CSS" /></a>
-  <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg" width="36" height="36" alt="C" />   </a>  
-  <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
-  <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" width="36" height="36" alt="TypeScript" /></a>
-  <a href="#" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a>
-  <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Angular_full_color_logo.svg" width="36" height="36" alt="Angular" /></a>
-  <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/7/79/Spring_Boot.svg" width="36" height="36" alt="Spring" /></a>
-  <a href="#" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/it/2/2e/Java_Logo.svg" width="36" height="36" alt="Java" /></a>
-</p>
+---
 
-### Socials
-<p align="left"> 
-  <a href="https://www.instagram.com/daniel.iozia?igsh=MTNhd2p2Mmh0MDR4cw%3D%3D&utm_source=qr" target="_blank" rel="noreferrer">
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" />
-  </a>
-   <a href="www.linkedin.com/in/daniel-iozia-283486201" target="_blank">
-<img src="https://www.logo.wine/a/logo/LinkedIn/LinkedIn-Icon-Logo.wine.svg" width="32" height="32" />
-  </a>
-</p>
+**Tech stack**
+
+| | |
+|---|---|
+| **Frontend** | [![Angular](https://img.shields.io/badge/Angular_19-DD0031?style=flat&logo=angular&logoColor=white)](https://angular.io) [![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)](https://www.typescriptlang.org) [![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat&logo=bootstrap&logoColor=white)](https://getbootstrap.com) |
+| **Backend** | [![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat&logo=springboot&logoColor=white)](https://spring.io/projects/spring-boot) [![Java](https://img.shields.io/badge/Java_21-ED8B00?style=flat&logo=openjdk&logoColor=white)](https://openjdk.org) ![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=jsonwebtokens) ![OAuth2](https://img.shields.io/badge/OAuth2-EB5424?style=flat&logo=auth0&logoColor=white) |
+| **Database** | [![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)](https://www.postgresql.org) ![Liquibase](https://img.shields.io/badge/Liquibase-2962FF?style=flat&logo=liquibase&logoColor=white) ![JPA](https://img.shields.io/badge/JPA%20%2F%20Hibernate-59666C?style=flat&logo=hibernate&logoColor=white) |
+| **Infra** | [![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)](https://www.docker.com) |
+
+---
+
+**Find me on**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-iozia-283486201)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/daniel.iozia)
+[![Email](https://img.shields.io/badge/Email-danieliozia.di@gmail.com-gray?style=flat&logo=gmail)](mailto:danieliozia.di@gmail.com)
